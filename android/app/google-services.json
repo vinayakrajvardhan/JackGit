@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384439628485",
+    "project_id": "jackgit-164e4",
+    "storage_bucket": "jackgit-164e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384439628485:android:8d969e8b6af8b6310436ac",
+        "android_client_info": {
+          "package_name": "com.example.jakeworthrestapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384439628485-h2l6ledj5ae04vs25oqti7ijdq7it1o9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jakeworthrestapi",
+            "certificate_hash": "dc7eb5a0729fbde832d56dfda00ce278d774764d"
+          }
+        },
+        {
+          "client_id": "384439628485-aprhiq11sl97rrstj7lpl1d3i30akrnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu20QWC0wisLXMDnz-5NLwkt3cwlVtDmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384439628485-aprhiq11sl97rrstj7lpl1d3i30akrnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
